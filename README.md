@@ -12,7 +12,7 @@
 
 ## ⚙️ Core Engine Overview
 
-The engine's first voice, an internal proof-of-concept, is developed under the codename **ALIZARIN**. This name will be replaced by the voice's official character identity upon her reveal.
+The engine's first voice, the mascott voice and proof-of-concept, is developed under the name **ALIZARIN** sharing a name with the engine.
 
 The ALIZARIN Engine is a high-level, LGPLv3-licensed voice synthesis framework designed for generating multiple voice products (real-time TTS, AI singing, and concatenative singing) from a single, **100% synthetic source**. This initiative is inspired by the pioneering work of missile_39's Adachi Rei, but takes a **different approach** to the "no-human-inside" concept by utilizing a unique hybrid method that incorporates both **modern latent-space AI** and **algorithmic formant synthesis** reminiscent of classic systems based on the style of the Votrax SC-01 and its Tandy TRS-80 Voice Synthesizer.
 
@@ -35,9 +35,9 @@ The name is an acronym for the core components of its design:
 
 The ALIZARIN Engine is an open-source, community-focused project with a specific set of goals:
 
-1.  **Unique, Non-Human Voices:** The engine's core philosophy is "no human inside." It is designed to create voices from the ground up using algorithmic and synthetic sources, allowing for truly unique, non-human character identities.
+1.  **Unique, Non-Human Voices:** The engine's core philosophy is "no human inside." It is designed to create voices from the ground up using algorithmic and synthetic sources, allowing for truly unique, non-human character identities like missile_39's Adachi Rei voice. I aim not to replace or copy their work, but to pay tribute to their work by adding new voice models and styles to the archetype missile_39's models fill with unique sounding models.
 2.  **Ethical Commercial Voices:** This framework provides a high-quality, free, and open-source path for commercial voices without needing to record, clone, or "steal" an existing human voice.
-3.  **Protect Voice Actors:** The synthetic nature of the voice makes it identifiable as non-human, reducing the chances of being used in fraud or to replace an existing voice actor. This promotes ethical behavior by offering a creative alternative to unauthorized voice clones.
+3.  **Protect Voice Actors:** The synthetic nature of the voice makes it identifiable as non-human, reducing the chances of being used in fraud or to replace an existing voice actor. This promotes ethical behavior by offering a creative alternative to unauthorized voice clones that I hope many will adopt as an ethical alternative.
 
 > **Goal:** To create an "all-encompassing" voice solution, pairing modern TTS with expressive singers (DiffSinger, UTAU) to allow creators to build complete character identities with consistent voices across delivery methods.
 
@@ -48,13 +48,13 @@ The ALIZARIN Engine is an open-source, community-focused project with a specific
 This project is built on an ideology of community contribution and creator freedom. We use the **LGPLv3 License** to achieve a "best-of-both-worlds" scenario:
 
 * **A Free, Shared Community Resource:** The ALIZARIN Engine framework is (and always will be) open-source. Any modifications or improvements made *to the engine framework itself* must be shared back with the community.
-* **Allowance for Unique, Private Voices:** The LGPLv3 license draws a "bright line" between **"The Library"** (our engine) and **"A Work that Uses The Library"** (your voice). Your "secret sauce" (formant scripts, texture kits, training data) remains **100% your own property** and does not need to be shared, allowing for unique privately licensed voices made from a free community ecosystem.
+* **Allowance for Unique, Private Voices:** The LGPLv3 license draws a "bright line" between **"The Library"** (our engine) and **"A Work that Uses The Library"** (your voice). Your "secret sauce" (formant scripts, texture kits, training data) remains **100% your own property** and does not need to be shared, allowing for unique privately licensed voices made from a free and growing community ecosystem.
 
 ### Community & Ethical Use Requests (Non-Binding)
 
 The following points are **not** requirements or conditions of the LGPLv3 license, nor are they possible restrictions to place under the required license to make this sharable. These are our sincere requests to you, the user, to foster a positive and ethical community environment.
 
-* 💖 **A Request from the Creator (Sharing):** We would love for you to share your public creations with the community and the ALIZARIN Engine team. If your voice is posted publicly, please consider sending us a link! 🎶
+* 💖 **A Request from the Creator (Sharing):** We would love for you to share your public creations with the community and the ALIZARIN Engine team. If your voice is posted publicly, please consider sending us a link and use #ALIZARIN on your social media posts to tag us! 🎶
 * 🛑 **A Request from the Creator (Ethical Usage):** We ask all creators using this framework to voluntarily adopt the following minimal restrictions for any voice derived from the ALIZARIN Engine:
     * **No Hateful Content:** Do not use the voice to create or distribute hate speech, harassment, severe threats, or content promoting violence or illegal acts.
     * **No Impersonation or Fraud:** Do not use the voice to impersonate identifiable individuals, especially for the purpose of financial fraud, manipulation, or unauthorized commercial exploitation.
