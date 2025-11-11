@@ -1,11 +1,11 @@
+[**◀ Back to Project Home (README.md)**](README.md) | [**ALIZARIN Voice EULA**](USAGE_GUIDE.md) | [**Third-Party Licenses**](THIRD_PARTY_LICENSES.md)
+***
+
 # ALIZARIN Engine - Creator's Guide & Best Practices
 
 This document provides helpful advice, suggestions, and answers to common questions for creators using the **ALIZARIN Engine** (LGPLv3) to build their own unique voices.
 
 **This is not a legal document.** The rules in this guide are suggestions, not requirements. The only legally binding document for the ALIZARIN Engine itself is the **LGPLv3 license**.
-
-[**◀ Back to Project Home (README.md)**](README.md) | [**ALIZARIN Voice EULA**](USAGE_GUIDE.md) | [**Third-Party Licenses**](THIRD_PARTY_LICENSES.md)
-***
 
 ---
 
