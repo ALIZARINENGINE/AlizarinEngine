@@ -67,3 +67,5 @@ This license governs the use of the character's intellectual property (their off
 ## IV. Special Usage Request Form
 
 For any use not explicitly permitted by this document (e.g., commercial IP use, R-18 content, converting the voice to a new engine, or using the voice in a corporation), you must apply for a special license.
+
+### [➡️ Click Here for the Official ALIZARIN Special Usage Request Form ⬅️](httpsCH_YOUR_GOOGLE_FORM_LINK_HERE)
