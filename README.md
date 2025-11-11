@@ -27,7 +27,7 @@
 
 | Status | License | Contribution |
 | :--- | :--- | :--- |
-| 🛠️ In-Development | ⚖️ LGPL-3.0 | 🧑‍💻 Welcomes Contributions |
+| 🛠️ In-Development | [⚖️ LGPL-3.0](.github/LICENSE) | 🧑‍💻 Welcomes Contributions |
 
 > The ALIZARIN Engine is currently in **Phase 1: Foundation & Data Generation**. This project is being developed live on stream as a public-facing R&D process.
 
