@@ -1,7 +1,5 @@
 # ⚡ ALIZARIN Engine ⚡
 
-> **[IMAGE PLACEHOLDER: Insert a link to your final character art or a logo here.]**
-
 <p align="center">
   <a href="https://discord.gg/6c4yTrMqRt">
     <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Join our Discord"/>
