@@ -2,6 +2,31 @@
 
 > **[IMAGE PLACEHOLDER: Insert a link to your final character art or a logo here.]**
 
+<p align="center">
+  <a href="https://discord.gg/6c4yTrMqRt">
+    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=for-the-badge" alt="Join our Discord"/>
+  </a>
+  <a href="https://x.com/ALIZARINENGINE">
+    <img src="https://img.shields.io/badge/Follow_on_X-000000?logo=x&logoColor=white&style=for-the-badge" alt="Follow on X/Twitter"/>
+  </a>
+  <a href="https://reddit.com/r/ALIZARINENGINE">
+    <img src="https://img.shields.io/badge/Reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge" alt="Join the Subreddit"/>
+  </a>
+  <a href="https://www.youtube.com/@AlizarinEngine">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white&style=for-the-badge" alt="Project YouTube Channel"/>
+  </a>
+  <a href="https://www.twitch.tv/alizarinengine/">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?logo=twitch&logoColor=white&style=for-the-badge" alt="Project Twitch Channel"/>
+  </a>
+</p>
+
+<p align="center">
+  <strong>Follow the main developer's stream for live R&D:</strong><br>
+  <a href="https://twitch.tv/vegalyraebard">
+    <img src="https://img.shields.io/badge/Developer_Stream-9146FF?logo=twitch&logoColor=white&style=for-the-badge" alt="Follow the Developer's Stream"/>
+  </a>
+</p>
+
 | Status | License | Contribution |
 | :--- | :--- | :--- |
 | 🛠️ In-Development | ⚖️ LGPL-3.0 | 🧑‍💻 Welcomes Contributions |
