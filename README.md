@@ -33,7 +33,7 @@
 
 ***
 
-## ⚙️ Core Engine Overview
+## Core Engine Overview
 
 The engine's first voice, the mascott voice and proof-of-concept, is developed under the name **ALIZARIN** sharing a name with the engine.
 
