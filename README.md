@@ -1,4 +1,4 @@
-# ⚡ ALIZARIN Engine ⚡
+# ALIZARIN Engine
 
 <p align="center">
   <a href="https://discord.gg/6c4yTrMqRt">
@@ -27,7 +27,7 @@
 
 | Status | License | Contribution |
 | :--- | :--- | :--- |
-| 🛠️ In-Development | [⚖️ LGPL-3.0](.github/LICENSE) | 🧑‍💻 Welcomes Contributions |
+| In-Development | [LGPL-3.0](.github/LICENSE) | Welcomes Contributions |
 
 > The ALIZARIN Engine is currently in **Phase 1: Foundation & Data Generation**. This project is being developed live on stream as a public-facing R&D process.
 
@@ -54,7 +54,7 @@ The name is an acronym for the core components of its design:
 
 ***
 
-## 🛡️ Philosophy & Ethical Commitment
+## Philosophy & Ethical Commitment
 
 The ALIZARIN Engine is an open-source, community-focused project with a specific set of goals:
 
@@ -66,7 +66,7 @@ The ALIZARIN Engine is an open-source, community-focused project with a specific
 
 ***
 
-## ⚖️ Licensing Model (The ALIZARIN Framework)
+## Licensing Model (The ALIZARIN Framework)
 
 This project is built on an ideology of community contribution and creator freedom. We use the **LGPLv3 License** to achieve a "best-of-both-worlds" scenario:
 
@@ -77,15 +77,15 @@ This project is built on an ideology of community contribution and creator freed
 
 The following points are **not** requirements or conditions of the LGPLv3 license, nor are they possible restrictions to place under the required license to make this sharable. These are our sincere requests to you, the user, to foster a positive and ethical community environment.
 
-* 💖 **A Request from the Creator (Sharing):** We would love for you to share your public creations with the community and the ALIZARIN Engine team. If your voice is posted publicly, please consider sending us a link and use #ALIZARIN on your social media posts to tag us! 🎶
-* 🛑 **A Request from the Creator (Ethical Usage):** We ask all creators using this framework to voluntarily adopt the following minimal restrictions for any voice derived from the ALIZARIN Engine:
+* **A Request from the Creator (Sharing):** We would love for you to share your public creations with the community and the ALIZARIN Engine team. If your voice is posted publicly, please consider sending us a link and use #ALIZARIN on your social media posts to tag us! 
+* **A Request from the Creator (Ethical Usage):** We ask all creators using this framework to voluntarily adopt the following minimal restrictions for any voice derived from the ALIZARIN Engine:
     * **No Hateful Content:** Do not use the voice to create or distribute hate speech, harassment, severe threats, or content promoting violence or illegal acts.
     * **No Impersonation or Fraud:** Do not use the voice to impersonate identifiable individuals, especially for the purpose of financial fraud, manipulation, or unauthorized commercial exploitation.
     * **Transparent Disclosure:** Disclose clearly that the voice used in any public-facing content is synthetic and was created by a computational process.
 
 ***
 
-## 📖 Documentation & Guidelines
+## Documentation & Guidelines
 
 This section summarizes the project's core documentation. For full details, please refer to the dedicated pages:
 
@@ -124,7 +124,7 @@ This section details the rules governing the use of the **visual art, name, and 
 
 ***
 
-## 🧪 Development Roadmap
+## Development Roadmap
 
 This repository will be updated with generalized, open-source scripts (licensed LGPLv3) as development of the main "ALIZARIN" voice is completed.
 
@@ -153,9 +153,9 @@ This repository will be updated with generalized, open-source scripts (licensed 
 
 ***
 
-## 🚀 Community Initiative Goals
+## Community Initiative Goals
 
-### I. 💰 Funding Goals (Tiered Deliverables)
+### I. Funding Goals (Tiered Deliverables)
 
 The following goals represent tangible product releases and services that will be delivered upon successful funding.
 
@@ -171,7 +171,7 @@ The following goals represent tangible product releases and services that will b
 
 ---
 
-### II. 🗣️ Conditional Goals (Community Collaboration)
+### II. Conditional Goals (Community Collaboration)
 
 These features rely on collaboration and linguistic expertise from the community, as the creator only speaks English.
 
@@ -183,7 +183,7 @@ These features rely on collaboration and linguistic expertise from the community
 
 ---
 
-### III. ✨ Stretch Goals (Long-Term Research)
+### III. Stretch Goals (Long-Term Research)
 
 These are complex, long-term experimental projects that will be prioritized *after* the main ALIZARIN voice is successfully delivered and its core technology is stable.
 
@@ -195,7 +195,7 @@ These are complex, long-term experimental projects that will be prioritized *aft
 
 ***
 
-## 🛠️ Technology Framework
+## Technology Framework
 
 The ALIZARIN Engine is not a single piece of software, but an integrated pipeline of open-source tools.
 
@@ -211,7 +211,7 @@ The ALIZARIN Engine is not a single piece of software, but an integrated pipelin
 
 ***
 
-## 💖 Acknowledgements
+## Acknowledgements
 
 This project stands on the shoulders of many contributors. We wish to extend our deepest thanks to:
 
