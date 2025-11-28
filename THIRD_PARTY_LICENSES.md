@@ -36,6 +36,14 @@ The following open-source projects are used directly by the ALIZARIN Engine's fr
 * **Project:** [FastAPI](https://github.com/tiangolo/fastapi)
     * **License:** MIT License
     * **Link:** [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
+ 
+* **Project:** [Librosa](https://github.com/librosa/librosa)
+    * **License:** ISC License
+    * **Link:** [https://opensource.org/licenses/ISC](https://opensource.org/licenses/ISC)
+      
+* **Project:** [AudioFlux](https://github.com/libAudioFlux/audioFlux)
+    * **License:** MIT License
+    * **Link:** [https://opensource.org/licenses/MIT](https://opensource.org/licenses/MIT)
 
 ## Inspirations (Not Included in Code)
 
