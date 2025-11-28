@@ -4,7 +4,7 @@ Thank you for your interest in contributing! We are thrilled to have you. This p
 
 Before you begin, please read our [**Code of Conduct**](CODE_OF_CONDUCT.md).
 
-## ⚖️ The Most Important Rule: Licensing
+## The Most Important Rule: Licensing
 
 The ALIZARIN Engine is licensed under the **LGPLv3**. This is a "weak copyleft" license that allows our community to build and improve the *engine* while allowing creators to keep their *voice data* private.
 
