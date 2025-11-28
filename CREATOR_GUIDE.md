@@ -68,3 +68,26 @@ By separating your "Voice EULA" (which should be permissive) from your "Characte
     * By separating them, you let people *use* your tool while you *control* your brand.
 * **Q: How do I handle takedowns?**
     * **A:** First, always try contacting the user politely. If they refuse to comply, you can use the official "DMCA Takedown" or "Copyright Infringement" form on most platforms (YouTube, Spotify, Bandcamp, etc.). You will need to provide a link to your original work (your character art, your voice demo) and a link to the infringing content, and state that it violates your EULA/License.
+
+---
+
+## IV. External Tools for Voice Design
+
+Creating a purely synthetic voice requires precise control over frequencies and textures. While the ALIZARIN Engine handles the generation, we highly recommend the following open-source tools to visualize your sound source during the design process.
+
+> **Note:** These are standalone external applications. They are not integrated into the engine but are recommended for your workflow.
+
+* **[Friture](https://friture.org/)** (GPLv3): Recommended for **real-time verification**. Use this to see your formant peaks and noise textures live while you tweak parameters.
+* **[Sonic Visualiser](https://www.sonicvisualiser.org/)** (GPLv2): Recommended for **offline analysis**. Use this to inspect your generated `.wav` samples for alignment errors or unwanted frequency artifacts.
+
+### Real-Time Audio Monitoring (The "Air-Gap" Method)
+
+To monitor your synthetic source in real-time with an analyzer like Friture, you can route the engine's audio output to a virtual input. This allows you to "see" the voice without needing to integrate complex analysis code.
+
+1. **Install a Virtual Cable:**
+    * **Windows:** [VB-Cable](https://vb-audio.com/Cable/)
+    * **macOS:** [BlackHole](https://github.com/ExistentialAudio/BlackHole)
+    * **Linux:** Use PulseAudio/PipeWire sinks.
+2. **Route the Engine:** In your generation script, set the audio output device to the Virtual Cable Input.
+3. **Route the Analyzer:** In Friture, set the **Input Device** to the Virtual Cable Output.
+4. **Result:** When you run the engine, the audio will visualize instantly in Friture.
